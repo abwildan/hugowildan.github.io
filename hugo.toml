@@ -1,0 +1,4 @@
+#baseURL = 'https://abwildan.github.io'
+languageCode = 'en-us' 
+title = 'Website Wildan'
+theme = 'papermod'
