@@ -10,3 +10,4 @@ Halo! Ini adalah teks **tebal**, dan ini adalah teks *miring*.
 
 Tutorial belajar Hugo bisa langsung ke website [Hugo](https://gohugo.io) ya!
 
+{{< pdf "/teachlikefinland.pdf" >}}
